@@ -5,12 +5,14 @@ A Jolie (www.jolie-lang.org) bundle for Sublime Text 2 with code highlight and c
 ## Installation
 
 ### Windows
-cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages
-git clone https://github.com/Thesave/sublime-Jolie.git Jolie
+
+	cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages
+	git clone https://github.com/Thesave/sublime-Jolie.git Jolie
 
 ### Windows
-cd %APPDATA%/Sublime Text 2/Packages
-git clone https://github.com/Thesave/sublime-Jolie.git Jolie
+	
+	cd %APPDATA%/Sublime Text 2/Packages
+	git clone https://github.com/Thesave/sublime-Jolie.git Jolie
 
 ## Future Works
 
