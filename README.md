@@ -1,10 +1,10 @@
 ## Introduction
 
-A Jolie (www.jolie-lang.org) bundle for Sublime Text 2 with code highlight and completion and sublime-build(s) for launching Jolie services in OSx (iTerm) and Windows.
+A Jolie (www.jolie-lang.org) bundle for Sublime Text 2 with syntax highlighting, code completion, and sublime-build(s) the Jolie Language.
 
 ## Installation
 
-### OSx
+### OSX
 
 	cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages
 	git clone https://github.com/Thesave/sublime-Jolie.git Jolie
@@ -16,5 +16,5 @@ A Jolie (www.jolie-lang.org) bundle for Sublime Text 2 with code highlight and c
 
 ## Future Works
 
-- Add support for Linux
-- Add additive support for Terminal in OSx
+- Add support for Linux;
+- Add additive support for Terminal in OSX.
