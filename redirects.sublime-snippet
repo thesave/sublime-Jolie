@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[Redirects: ${1:resourceName} => ${2:outputPortName}]]></content>
+    <tabTrigger>redirects</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>redirects</description>
+</snippet>

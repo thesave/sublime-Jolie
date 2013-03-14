@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[while( ${0:condition} ){
+    
+}]]></content>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.ol</scope>
+    <description>while</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[[${1:operationName}( request )( response ){
+	// RequestResponse code
+}]{
+	// input-choice code
+}]]></content>
+    <tabTrigger>inputChoiceRequestResponse</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>input-choice (RequestResponse)</description>
+</snippet>

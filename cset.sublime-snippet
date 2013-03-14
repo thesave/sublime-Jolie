@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[cset {
+	${1:correlationVariable}: ${0:alias}
+}]]></content>
+    <tabTrigger>cset</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>cset (definition)</description>
+</snippet>

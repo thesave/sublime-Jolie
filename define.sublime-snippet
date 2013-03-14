@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[define ${0:block_name}
+{
+
+}]]></content>
+    <tabTrigger>define</tabTrigger>
+    <scope>source.ol</scope>
+    <description>define</description>
+</snippet>

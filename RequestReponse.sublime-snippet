@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[${1:operationName}( ${3:request} )( ${4:response} ){
+	
+}]]></content>
+    <tabTrigger>requestresponse</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>RequestResponse</description>
+</snippet>

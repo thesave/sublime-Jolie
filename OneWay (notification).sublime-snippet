@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:operationName}@${2:Service}( ${3:request} )]]></content>
+    <tabTrigger>oneway@Service</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>OneWay (notification)</description>
+</snippet>

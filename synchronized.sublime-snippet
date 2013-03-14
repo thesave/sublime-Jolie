@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[synchronized( ${0:token} ){
+    
+}]]></content>
+    <tabTrigger>synchronized</tabTrigger>
+    <scope>source.ol</scope>
+    <description>synchronized</description>
+</snippet>

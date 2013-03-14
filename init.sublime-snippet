@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[init
+{
+	$0
+}]]></content>
+    <tabTrigger>init</tabTrigger>
+    <scope>source.ol</scope>
+    <description>init (scope)</description>
+</snippet>

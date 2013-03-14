@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[for (${1:initialization}, ${2:condition}, ${0:afterthought}) {
+	
+}]]></content>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.ol</scope>
+    <description>for</description>
+</snippet>

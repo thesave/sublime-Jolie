@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[[ ${1:operationName}( request ) ] {
+		
+}]]></content>
+    <tabTrigger>inputChoiceOneWay</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>input-choice (OneWay)</description>
+</snippet>

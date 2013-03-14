@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[if( ${0:condition} ) {
+	
+}]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.ol</scope>
+    <description>if</description>
+</snippet>

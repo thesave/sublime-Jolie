@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[println@Console( ${0:string} )()]]></content>
+    <tabTrigger>print</tabTrigger>
+    <scope>source.ol</scope>
+    <description>print</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[else if ($1) {
+	$0
+}]]></content>
+    <tabTrigger>elsi</tabTrigger>
+    <scope>source.ol</scope>
+    <description>else if</description>
+</snippet>

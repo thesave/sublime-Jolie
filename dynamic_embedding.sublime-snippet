@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[embedInfo.type = "${1:Language}";
+embedInfo.filepath = "${2:file_path}";
+loadEmbeddedService@Runtime( embedInfo )( ${3:PortName}.location );]]></content>
+    <tabTrigger>dynamicEmbedding</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>dynamic embedding</description>
+</snippet>

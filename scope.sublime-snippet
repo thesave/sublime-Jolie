@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[scope( ${1:scopeName} )
+{
+	$2
+}]]></content>
+    <tabTrigger>scope</tabTrigger>
+    <scope>source.ol</scope>
+    <description>scope</description>
+</snippet>

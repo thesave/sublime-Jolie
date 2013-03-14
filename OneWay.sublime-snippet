@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[${1:operationName}( ${3:request} )]]></content>
+    <tabTrigger>oneway</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>OneWay (one way)</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[type ${1:typeName}: ${2:Type}{
+	.${3:subNodeName}: ${4:type}
+}]]></content>
+    <tabTrigger>type</tabTrigger>
+    <scope>source.ol</scope>
+    <description>type (nested)</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[constants
+{
+	${1:contant} = ${0:value}
+}]]></content>
+    <tabTrigger>constants</tabTrigger>
+    <scope>source.ol</scope>
+    <description>constants</description>
+</snippet>
