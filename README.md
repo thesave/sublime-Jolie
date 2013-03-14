@@ -4,7 +4,7 @@ A bundle for Sublime Text 2 with syntax highlighting, code completion, and subli
 
 ## Installation
 
-### OSX
+### OSX[1]
 
 	cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages
 	git clone https://github.com/Thesave/sublime-Jolie.git Jolie
@@ -18,3 +18,5 @@ A bundle for Sublime Text 2 with syntax highlighting, code completion, and subli
 
 - Add support for Linux;
 - Add additive support for Terminal in OSX.
+
+[1] At the moment it works with iTerm only
