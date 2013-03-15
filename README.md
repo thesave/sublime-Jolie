@@ -1,6 +1,6 @@
 ## Introduction
 
-A bundle for Sublime Text 2 with syntax highlighting, code completion, and sublime-build(s) for the Jolie Language ([www.jolie-lang.org](www.jolie-lang.org)).
+A bundle for Sublime Text 2 with syntax highlighting, code completion, and sublime-build(s) for the Jolie Language ([www.jolie-lang.org](http://www.jolie-lang.org)).
 
 ## Installation
 
