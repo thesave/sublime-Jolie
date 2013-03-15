@@ -33,7 +33,7 @@ Download the [zipped source](https://github.com/thesave/sublime-Jolie/archive/ma
 
 - At the moment the build command (⌘B) in OSX works with [iTerm](http://www.iterm2.com) only
 
-## Future Works
+## Future features
 
 - Add support for Linux Terminal build;
 - Add additive support for default Terminal in OSX.
