@@ -37,3 +37,11 @@ Download the [zipped source](https://github.com/thesave/sublime-Jolie/archive/ma
 
 - Add support for Linux Terminal build;
 - Add additive support for default Terminal in OSX.
+
+## Improvements and Bug fixes
+
+April 3rd, 2013
+
+- fixed bug with spaced names in OSX;
+- added toggle comment functionality;
+- minor bug fixes.
