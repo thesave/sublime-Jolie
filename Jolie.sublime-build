@@ -6,6 +6,6 @@
 		"cmd":["start","jolie","$file_name"]
 	},
 	"osx":{
-		"cmd":"osascript -e 'tell application \"iTerm\"' -e 'activate' -e 'set newTerm to (make new terminal)' -e 'tell newTerm' -e 'set command to \"cd \\\"$file_path\\\" && jolie $file_name\"' -e 'activate current session' -e 'launch session \"Default Session\"' -e 'tell the last session' -e 'write text command' -e 'set the name to \"$file_name\"' -e 'end tell' -e 'end tell' -e 'end tell'"
+		"cmd":"osascript -e 'tell application \"iTerm\"' -e 'activate' -e 'set newTerm to (make new terminal)' -e 'tell newTerm' -e 'set command to \"cd \\\"$file_path\\\" && jolie \\\"$file_name\\\"\"' -e 'activate current session' -e 'launch session \"Default Session\"' -e 'tell the last session' -e 'write text command' -e 'set the name to \"$file_name\"' -e 'end tell' -e 'end tell' -e 'end tell'"
 	}
 }
