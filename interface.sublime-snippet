@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[interface ${0:interfaceName} {
-    	OneWay: 
-    	RequestResponse: 
+	OneWay: 
+	RequestResponse: 
 }]]></content>
     <tabTrigger>interface</tabTrigger>
     <scope>source.ol</scope>
