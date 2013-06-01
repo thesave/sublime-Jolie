@@ -45,3 +45,8 @@ April 3rd, 2013
 - fixed bug with spaced names in OSX;
 - added toggle comment functionality;
 - minor bug fixes.
+
+June 1st, 2013
+
+- minor bug fixes;
+- added support and auto-completion for function `is_defined(var)`.
