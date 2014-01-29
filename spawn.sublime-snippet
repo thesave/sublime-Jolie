@@ -1,5 +1,11 @@
 <snippet>
-    <content><![CDATA[spawn ( ${1:index} over ${2:integerExpression} ) ${3:in ${4:localVectorVariable }} {
+    <content><![CDATA[// N.B. the "in" clause is optional and eases 
+// the retrieval of in-process local values. The local variable at
+// position i can be accessed by referring to the i-th element in
+// localVector variable. E.g., if in the spawn block process i sets 
+// the value of local variable localVector.v, the value of v 
+// is retrieved outside the spawn with localVector[i].v.
+spawn ( ${1:index} over ${2:integerExpression} ) ${3:in ${4:localVector}} {
   $5
 }]]></content>
     <tabTrigger>spawn</tabTrigger>
