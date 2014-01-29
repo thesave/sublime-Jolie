@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[spawn ( ${1:index} over ${2:integerExpression} ) ${3:in ${4:localVectorVariable }} {
+  $5
+}]]></content>
+    <tabTrigger>spawn</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>spawn - parallel composition of output processes</description>
+</snippet>
