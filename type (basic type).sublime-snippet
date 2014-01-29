@@ -2,5 +2,6 @@
     <content><![CDATA[type ${1:typeName}: ${2:basicType}]]></content>
     <tabTrigger>type</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>type (basic)</description>
 </snippet>

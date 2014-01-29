@@ -2,5 +2,6 @@
     <content><![CDATA[include "${0:file}"]]></content>
     <tabTrigger>include</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>include</description>
 </snippet>

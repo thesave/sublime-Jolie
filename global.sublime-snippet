@@ -2,5 +2,6 @@
     <content><![CDATA[global.${0:variable}]]></content>
     <tabTrigger>global</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>global</description>
 </snippet>

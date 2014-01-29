@@ -1,9 +1,10 @@
 <snippet>
-    <content><![CDATA[define ${0:block_name}
+    <content><![CDATA[define ${1:procedure_name}
 {
-
+  $2
 }]]></content>
     <tabTrigger>define</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>define</description>
 </snippet>

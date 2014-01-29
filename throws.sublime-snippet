@@ -1,6 +1,7 @@
 <snippet>
-    <content><![CDATA[throws ${1:faultName}( ${0:faultType} )]]></content>
+    <content><![CDATA[throws ${1:faultName}( ${2:faultType} )]]></content>
     <tabTrigger>throws</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>throws</description>
 </snippet>

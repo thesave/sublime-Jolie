@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[cset {
-	${1:correlationVariable}: ${0:alias}
+  ${1:correlationVariable}: ${2:alias}
 }]]></content>
     <tabTrigger>cset</tabTrigger>
     <scope>source.ol</scope>

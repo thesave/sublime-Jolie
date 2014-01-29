@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[[ ${1:operationName}( request ) ] {
-		
+    <content><![CDATA[[ ${1:operationName}( ${2:request} ) ] {
+  $3
 }]]></content>
     <tabTrigger>inputChoiceOneWay</tabTrigger>
     <scope>source.ol</scope>

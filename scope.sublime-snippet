@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[scope( ${1:scopeName} )
 {
-	$2
+  $2
 }]]></content>
     <tabTrigger>scope</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>scope</description>
 </snippet>

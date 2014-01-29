@@ -2,5 +2,6 @@
     <content><![CDATA[socket://${1:localhost}:${2:portNumber}]]></content>
     <tabTrigger>socket</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>socket (localhost)</description>
 </snippet>

@@ -2,5 +2,6 @@
     <content><![CDATA[undef( ${0:variableName} )]]></content>
     <tabTrigger>undef</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>undef</description>
 </snippet>

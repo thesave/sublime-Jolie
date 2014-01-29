@@ -2,5 +2,6 @@
     <content><![CDATA[csets.${1:correlationVariable}]]></content>
     <tabTrigger>csets</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>csets</description>
 </snippet>

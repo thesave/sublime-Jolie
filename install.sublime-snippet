@@ -1,6 +1,7 @@
 <snippet>
-    <content><![CDATA[install( ${1:faultName} => ${0:faultCode} )]]></content>
+    <content><![CDATA[install( ${1:faultName} => ${2:faultCode} )]]></content>
     <tabTrigger>install</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>install</description>
 </snippet>

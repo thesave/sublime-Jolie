@@ -1,8 +1,9 @@
 <snippet>
     <content><![CDATA[type ${1:typeName}: ${2:Type}{
-	.${3:subNodeName}: ${4:type}
+  .${3:subNodeName}: ${4:type}
 }]]></content>
     <tabTrigger>type</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>type (nested)</description>
 </snippet>

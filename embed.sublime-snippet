@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[embedded {
-	${1:Language}: "${2:file_path}" in ${3:PortName}
+  ${1:Language}: "${2:file_path}" in ${3:PortName}
 }]]></content>
     <tabTrigger>embedded</tabTrigger>
     <scope>source.ol</scope>

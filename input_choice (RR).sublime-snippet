@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[[${1:operationName}( request )( response ){
-	// RequestResponse code
+    <content><![CDATA[[ ${1:operationName}( ${2:request} )( ${3:response} ){
+  ${4:beforeResponseCode}
 }]{
-	// input-choice code
+  ${5:afterResponseCode}
 }]]></content>
     <tabTrigger>inputChoiceRequestResponse</tabTrigger>
     <scope>source.ol</scope>

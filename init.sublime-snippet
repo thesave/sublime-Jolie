@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[init
 {
-	$0
+  $0
 }]]></content>
     <tabTrigger>init</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>init (scope)</description>
 </snippet>

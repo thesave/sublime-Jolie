@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[${1:operationName}( ${3:request} )( ${4:response} ){
-	
+    <content><![CDATA[${1:operationName}( ${2:request} )( ${3:response} ){
+ $4
 }]]></content>
     <tabTrigger>requestresponse</tabTrigger>
     <scope>source.ol</scope>

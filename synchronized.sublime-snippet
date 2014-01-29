@@ -1,8 +1,9 @@
 <snippet>
-    <content><![CDATA[synchronized( ${0:token} ){
-    
+    <content><![CDATA[synchronized( ${1:token} ){
+  $2
 }]]></content>
     <tabTrigger>synchronized</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>synchronized</description>
 </snippet>

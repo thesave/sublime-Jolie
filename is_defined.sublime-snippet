@@ -2,5 +2,6 @@
     <content><![CDATA[is_defined( ${0:variableName} )]]></content>
     <tabTrigger>is_defined</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>is_defined</description>
 </snippet>

@@ -1,6 +1,7 @@
 <snippet>
-    <content><![CDATA[throw( ${0:error} )]]></content>
+    <content><![CDATA[throw( ${1:error} )]]></content>
     <tabTrigger>throw</tabTrigger>
     <scope>source.ol</scope>
+    <scope>source.iol</scope>
     <description>throw</description>
 </snippet>
