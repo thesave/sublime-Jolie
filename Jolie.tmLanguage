@@ -347,11 +347,11 @@
 						</dict>
 					</dict>
 					<key>match</key>
-					<string>(class|(?:@)?interface|enum)\s+(\w+)</string>
+					<string>(interface)\s+(\w+)</string>
 					<key>name</key>
 					<string>meta.class.identifier.java</string>
 				</dict>
-				<dict>
+<!-- 				<dict>
 					<key>begin</key>
 					<string>extends</string>
 					<key>beginCaptures</key>
@@ -377,8 +377,8 @@
 							<string>#comments</string>
 						</dict>
 					</array>
-				</dict>
-				<dict>
+				</dict> -->
+<!-- 				<dict>
 					<key>begin</key>
 					<string>(implements)\s</string>
 					<key>beginCaptures</key>
@@ -404,7 +404,7 @@
 							<string>#comments</string>
 						</dict>
 					</array>
-				</dict>
+				</dict> -->
 				<dict>
 					<key>begin</key>
 					<string>{</string>
@@ -618,6 +618,20 @@
 					<key>name</key>
 					<string>constant.other.java</string>
 				</dict>
+				<dict>
+					<key>captures</key>
+					<dict>
+						<key>1</key>
+						<dict>
+							<key>name</key>
+							<string>constant.other.java</string>
+						</dict>
+					</dict>
+					<key>match</key>
+					<string>(#)(\w+)</string>
+					<key>name</key>
+					<string>variable.parameter.java</string>
+				</dict>
 			</array>
 		</dict>
 		<key>enums</key>
@@ -732,17 +746,10 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>(;)</string>
+					<string>(;|\|)</string>
 					<key>name</key>
 					<!--string>punctuation.terminator.java</string-->
-					<string>keyword.operator.assert.expression-seperator.java</string>
-				</dict>
-				<dict>
-					<key>match</key>
-					<string>(\|)</string>
-					<key>name</key>
-					<!--string>punctuation.terminator.java</string-->
-					<string>keyword.operator.assert.expression-seperator.java</string>
+					<string>constant.language.java</string>
 				</dict>
 			</array>
 		</dict>
