@@ -1,23 +1,11 @@
 ## Introduction
 
-A bundle for Sublime Text 2 with syntax highlighting, code completion, and sublime-build(s) for the Jolie Language ([www.jolie-lang.org](http://www.jolie-lang.org)).
+A bundle for Sublime Text with syntax highlighting, code completion, and sublime-build(s) for the Jolie Language ([www.jolie-lang.org](http://www.jolie-lang.org)).
 
 ## Installing
 
 ### Reach the `Packages` directory 
-Reach the `Packages` directory of your Sublime Text 2 installation from your shell of choice
-
-**OSX**:
-
-	cd /Users/<username>/Library/Application\ Support/Sublime\ Text\ 2/Packages`
-
-**Linux**:
-
-	~/.Sublime\ Text\ 2/Packages/
-
-**Windows**:
-
-	cd %APPDATA%/Sublime Text 2/Packages
+Reach the `Packages` directory of your Sublime Text installation and open a shell at that location.
 
 ### Install with git
 
