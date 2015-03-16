@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[inputPort ${1:portName} {
-  Location: $2
-  Protocol: $3
-  Interfaces: $4
+Location: $2
+Protocol: $3
+Interfaces: $4
 }]]></content>
     <tabTrigger>inputPort</tabTrigger>
     <scope>source.ol</scope>
