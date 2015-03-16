@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[[ provide
+	${0:provideInputChoice}
+until
+	${1:untilInputChoice}
+]]></content>
+    <tabTrigger>provide</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>provide-until</description>
+</snippet>

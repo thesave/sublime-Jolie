@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[execution{ ${0:single|concurrent|sequential } }]]></content>
+    <content><![CDATA[execution{ ${0:single|concurrent|sequential} }]]></content>
     <tabTrigger>execution</tabTrigger>
     <scope>source.ol</scope>
     <scope>source.iol</scope>
