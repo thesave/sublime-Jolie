@@ -1019,7 +1019,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>\b(global|constants|cH|instanceof|Interface|Protocol|Interfaces|define|Location|Aggregates|inputPort|outputPort|OneWay|RequestResponse|execution|comp|concurrent|nullProcess|single|sequential|main|init|cset|Redirects|csets|is_defined|embedded|extender|Java|Jolie|JavaScript|courier|forward|install|undef|include|synchronized|throws|)\b</string>
+			<string>\b(global|constants|cH|instanceof|Interface|Protocol|Interfaces|define|Location|Aggregates|inputPort|service|outputPort|OneWay|RequestResponse|execution|comp|concurrent|nullProcess|single|sequential|main|init|cset|Redirects|csets|is_defined|embedded|extender|Java|Jolie|JavaScript|courier|forward|install|undef|include|synchronized|throws|)\b</string>
 		</dict>
 		<key>strings</key>
 		<dict>

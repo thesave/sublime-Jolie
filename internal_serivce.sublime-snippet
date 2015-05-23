@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[service ${1:Name} 
+{
+	Interfaces: ${2:Iface1,...}
+	main 
+	{
+		${3:}
+	}
+}
+]]></content>
+    <tabTrigger>service</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>Internal Service</description>
+</snippet>
