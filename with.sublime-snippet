@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[with( ${1:parent} ){
-  $2
+  .${2:child}
 }]]></content>
     <tabTrigger>with</tabTrigger>
     <scope>source.ol</scope>

@@ -1,6 +1,6 @@
 <snippet>
-    <content><![CDATA[type ${1:typeName}: ${2:Type}{
-  .${3:subNodeName}: ${4:type}
+    <content><![CDATA[type ${1:typeName}: ${2:Type} {
+  .${3:subNodeName}: ${4:Type}
 }]]></content>
     <tabTrigger>type</tabTrigger>
     <scope>source.ol</scope>
