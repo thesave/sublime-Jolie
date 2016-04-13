@@ -32,14 +32,9 @@ Clone the repository with the command:
 
 Download the [zipped source](https://github.com/thesave/sublime-Jolie/archive/master.zip) of the repository and copy the whole directory into the `Packages` directory.
 
-## Notes
-
-- At the moment the build command (<kbd>⌘B</kbd>) in OSX works only with [iTerm](http://www.iterm2.com)
-
 ## Future features
 
 - Add support for Linux Terminal build;
-- Add additive support for default Terminal in OSX.
 
 ## Improvements and Bug fixes
 
@@ -53,3 +48,7 @@ June 1st, 2013
 
 - minor bug fixes;
 - added support and auto-completion for function `is_defined(var)`.
+
+April 13th, 2016
+
+- added support for standard OSX Terminal
