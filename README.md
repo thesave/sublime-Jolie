@@ -14,7 +14,7 @@ Make sure you [installed Package Control](https://packagecontrol.io/installation
 - type `install`
 - among the commands you should see `Package Control: Install Package`. Select the command. 
 - Package Control will fetch the list of available plugins;
-- type `jolie`, among the entries you should see "Jolie Language". Select it.
+- type `jolie`, among the entries you should see "sublime-Jolie". Select it.
 
 Package Control will install the package.
 
