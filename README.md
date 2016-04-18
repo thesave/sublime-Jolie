@@ -26,7 +26,7 @@ Reach the `Packages` directory of your Sublime Text installation and open a shel
 
 Clone the repository with the command:
 
-	git clone https://github.com/thesave/sublime-Jolie.git Jolie
+	git clone https://github.com/thesave/sublime-Jolie.git
 
 #### ... without git
 
