@@ -6,6 +6,6 @@
 		"cmd":["start","jolie","$file_name"]
 	},
 	"osx":{
-		"cmd": "osascript \"$packages/sublime-Jolie/LaunchOSXTerminal.scpt\" $file_path $file_name"
+		"cmd": "osascript \"$packages/jolie/LaunchOSXTerminal.scpt\" $file_path $file_name"
 	}
 }
