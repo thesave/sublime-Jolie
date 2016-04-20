@@ -26,7 +26,7 @@ Reach the `Packages` directory of your Sublime Text installation and open a shel
 
 Clone the repository with the command:
 
-	git clone https://github.com/thesave/sublime-Jolie.git Jolie
+	git clone https://github.com/thesave/sublime-Jolie.git jolie
 
 #### ... without git
 
@@ -52,3 +52,7 @@ June 1st, 2013
 April 13th, 2016
 
 - added support for standard OSX Terminal
+
+April 20th, 2016
+
+- added support for Linux Terminal
