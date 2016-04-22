@@ -9,6 +9,6 @@
 		"cmd": "osascript \"$packages/jolie/LaunchOSXTerminal.scpt\" $file_path $file_name"
 	},
 	"linux": {
-		"cmd": "$packages/jolie/LaunchLinuxTerminal.sh $file_path $file_name "
+		"cmd": "if [ ! -x \"$packages/jolie/LaunchLinuxTerminal.sh\" ]; then chmod +x \"$packages/jolie/LaunchLinuxTerminal.sh\"; fi; \"$packages/jolie/LaunchLinuxTerminal.sh\" \"$file_path\" \"$file_name\""
 	}
 }
