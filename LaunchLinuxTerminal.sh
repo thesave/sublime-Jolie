@@ -8,7 +8,7 @@ do
 	fi
 done
 # adding cd to file working path
-cmd="$cmd cd \"$1;\""
+cmd="$cmd cd \"$1\";"
 
 # adding jolie launch command
 cmd="$cmd jolie \"$2\";"
