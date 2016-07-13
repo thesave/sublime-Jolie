@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[type ${0:typeName}: ${1:Type1} | ${2:Type2} | ${3:Type3}]]></content>
+    <tabTrigger>type</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>type (choice)</description>
+</snippet>

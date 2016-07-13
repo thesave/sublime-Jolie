@@ -5,5 +5,5 @@
     <tabTrigger>type</tabTrigger>
     <scope>source.ol</scope>
     <scope>source.iol</scope>
-    <description>type (nested)</description>
+    <description>type (custom)</description>
 </snippet>

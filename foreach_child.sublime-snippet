@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[foreach ( ${1:child} : ${2:parent} ) {
+	$3
+}]]></content>
+    <tabTrigger>foreach</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>foreach child</description>
+</snippet>

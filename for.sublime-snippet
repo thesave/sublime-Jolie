@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[for (${1:ini}, ${2:cond}, ${3:afterthought}) {
+    <content><![CDATA[for ( ${1:ini}, ${2:cond}, ${3:afterthought} ) {
   $4
 }]]></content>
     <tabTrigger>for</tabTrigger>

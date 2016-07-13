@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[instanceof ${0:type}]]></content>
+    <tabTrigger>instanceof</tabTrigger>
+    <scope>source.ol</scope>
+    <scope>source.iol</scope>
+    <description>instanceof</description>
+</snippet>
