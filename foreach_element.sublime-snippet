@@ -1,5 +1,5 @@
 <snippet>
-    <content><![CDATA[foreach ( ${1:element} : ${2:array} ) {
+    <content><![CDATA[foreach ( ${1:element} -> ${2:array} ) {
 	$3
 }]]></content>
     <tabTrigger>foreach</tabTrigger>
