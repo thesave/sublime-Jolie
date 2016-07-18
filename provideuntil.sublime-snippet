@@ -1,8 +1,16 @@
 <snippet>
-    <content><![CDATA[[ provide
-	${0:provideInputChoice}
+    <content><![CDATA[provide
+  [ inputChoice( request )( response ){ 
+    beforeResponseCode
+  } ] { 
+    afterResponseCode
+  }
 until
-	${1:untilInputChoice}
+	[ inputChoice( request )( response ){ 
+    beforeResponseCode
+  } ] { 
+    afterResponseCode
+  }
 ]]></content>
     <tabTrigger>provide</tabTrigger>
     <scope>source.ol</scope>
