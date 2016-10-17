@@ -698,7 +698,7 @@
 				</dict>
 				<dict>
 					<key>match</key>
-					<string>\b(while|for|foreach|with|in|spawn|over|type|if|else)\b</string>
+					<string>\b(while|for|exit|foreach|with|in|spawn|provide|until|over|type|if|else)\b</string>
 					<key>name</key>
 					<string>keyword.control.java</string>
 				</dict>

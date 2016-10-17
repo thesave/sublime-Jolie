@@ -1,8 +1,8 @@
 <snippet>
-    <content><![CDATA[foreach ( ${1:element} -> ${2:array} ) {
+    <content><![CDATA[for ( ${1:element} in ${2:array} ) {
 	$3
 }]]></content>
-    <tabTrigger>foreach</tabTrigger>
+    <tabTrigger>for</tabTrigger>
     <scope>source.ol</scope>
     <scope>source.iol</scope>
     <description>foreach element</description>
